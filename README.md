@@ -24,7 +24,7 @@ A modern, responsive portfolio website showcasing my frontend development skills
 
 ## 📸 Preview
 
-<!-- Add screenshots of your portfolio here -->
+![Portfolio Preview](public/assets/images/Portfolio-Preview.png)
 
 ## 🎯 Sections
 
