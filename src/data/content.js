@@ -38,16 +38,24 @@ export const skillsData = [
 export const experienceData = [
     {
         id: 1,
-        title: 'Frontend Developer Intern',
+        title: 'Frontend Developer',
         company: 'Corpjack Technologies',
         location: '',
-        period: 'Current',
-        startDate: '2024',
+        period: 'Dec 2025 - Present',
+        startDate: 'Dec 2025',
         endDate: 'Present',
         current: true,
         type: 'work',
-        description: '',
-        responsibilities: []
+        description: 'Contributing to live client websites by implementing UI enhancements and frontend feature updates.',
+        responsibilities: [
+            'Developing and modifying frontend components using HTML, CSS, JavaScript, and React',
+            'Integrating APIs to fetch and render dynamic data within web interfaces',
+            'Improving layout structure and responsiveness using Flexbox and CSS Grid',
+            'Working within existing production codebases to implement scalable and maintainable solutions',
+            'Ensuring responsive design and cross-device compatibility',
+            'Collaborating with team members to deliver structured frontend implementations',
+            'Managing code and version control using Git and GitHub'
+        ]
     },
     {
         id: 2,
